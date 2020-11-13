@@ -54,10 +54,10 @@ body {
 }
 
 label {
-  color: black;
+  color: rgb(255, 254, 254);
   font-weight: normal;
 }
 
-::-ms-input-placeholder {
+::placeholder {
   color: white;
 }
