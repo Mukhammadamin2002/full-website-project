@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    background-image: url(images/bg3.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 40;
+
+}
+h3 {
+    margin-top: 40px;
+    font-size: 40px;
+    margin: 10px;
+}
+.col-md-6 {
+    background: rgba(18, 24, 26, 0.5);
+    border-radius: 15px 15px 15px 15px;
+}
+label{
+    color: white;
+}
+
+.input-group-addon{
+    color: white;
+}
+.top{
+    margin-top: 8rem;
+}
